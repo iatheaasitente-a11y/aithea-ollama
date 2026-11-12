@@ -1,0 +1,8 @@
+.env
+*.key
+*.pem
+models/
+*.gguf
+__pycache__/
+.venv/
+resultados/
